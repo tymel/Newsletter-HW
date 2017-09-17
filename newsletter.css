@@ -1,0 +1,12 @@
+body{background-color: #F2F2F2; border-bottom: solid blue;border-top: solid blue 20px}
+h1{background-color: #FA5858;
+font-family: Verdana font-size:200%; text-align: center;}
+#p2{margin-left: 50px; font-family: courier; font-size: 245%; text-align: left}
+h3{ border-left: solid blue 350px;border-right: solid blue 350px;text-align: center; }
+h4{margin-left: 200px}
+img{margin-right:;}
+#p1{margin-top: 0px; text-align: right;}
+#p4{text-align: center; font-size: 160%}
+#p3{text-align: left; margin-bottom: 90px}
+#em{}
+#header{text-align: right; font-family: courier; font-size: 140%;}
